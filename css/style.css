@@ -89,11 +89,11 @@
 /* BG */
 
 	#bg {
-		-moz-animation: bg 15s linear infinite;
-		-webkit-animation: bg 15s linear infinite;
-		-o-animation: bg 15s linear infinite;
-		-ms-animation: bg 15s linear infinite;
-		animation: bg 15s linear infinite;
+		-moz-animation: bg 2s linear infinite;
+		-webkit-animation: bg 2s linear infinite;
+		-o-animation: bg 2s linear infinite;
+		-ms-animation: bg 2s linear infinite;
+		animation: bg 2s linear infinite;
 		-moz-backface-visibility: hidden;
 		-webkit-backface-visibility: hidden;
 		-o-backface-visibility: hidden;
