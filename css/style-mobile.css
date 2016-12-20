@@ -26,7 +26,13 @@
 		width: 900px;
 	}
 /*video*/
-	
+	html {
+         background: url(polina.jpg) #000 no-repeat center center fixed;
+    }
+    #bgvid {
+        display: none;
+    }
+}
 /* Header */
 
 	#header h1 {
