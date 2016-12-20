@@ -143,7 +143,7 @@
 /*op*/
 	#op {
 		background-color: black;
-		opacity; 50%;
+		opacity; .5;
 }
 /* Overlay */
 	@-moz-keyframes overlay { 0% { opacity: 0; } 100% { opacity: 1; } }
