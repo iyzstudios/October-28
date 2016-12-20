@@ -140,6 +140,11 @@
 	    background: url("images/Dec. 18 2016-2.mp4") no-repeat;
 	    background-size: cover; 
 	}
+/*op*/
+	#op {
+		background-color: black;
+		opacity; 50%;
+}
 /* Overlay */
 	@-moz-keyframes overlay { 0% { opacity: 0; } 100% { opacity: 1; } }
 	@-webkit-keyframes overlay { 0% { opacity: 0; } 100% { opacity: 1; } }
