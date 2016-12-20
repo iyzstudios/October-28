@@ -137,7 +137,7 @@
 	    -moz-transform: translateX(-50%) translateY(-50%);
 	    -webkit-transform: translateX(-50%) translateY(-50%);
 	    transform: translateX(-50%) translateY(-50%);
-	    background: url(images/Dec. 18 2016-2.mp4) no-repeat;
+	    background: url("images/Dec. 18 2016-2.mp4") no-repeat;
 	    background-size: cover; 
 	}
 /* Overlay */
