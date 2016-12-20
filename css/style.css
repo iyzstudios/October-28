@@ -129,7 +129,7 @@
 	    top: 50%;
 	    left: 50%;
 	    max-width: 100%;
-	    
+	    max-height: auto;
 	    z-index: -100;
 	    -ms-transform: translateX(-50%) translateY(-50%);
 	    -moz-transform: translateX(-50%) translateY(-50%);
