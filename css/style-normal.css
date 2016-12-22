@@ -20,6 +20,7 @@
 	#bg {
 		background-size: 750px auto;
 		width: 2250px;
+		display: none;
 	}
 /*Video*/
 	#bgvid{
