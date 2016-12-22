@@ -123,7 +123,7 @@
 	#bg {
 		background-size: 43% auto;
 		width: 6750px;
-		display: none;
+		z-index:-3;
 	}
 /*video*/
 	video#bgvid { 
@@ -140,13 +140,14 @@
 	    background: url("images/Dec. 18 2016-2.mp4") no-repeat;
 	    background-size: cover;
 	    background-color: white;
+            z-index:-1;
 	}
 /*op*/
 	#op {
 		background-color: rgba(0,0,0,.5);
 		height: 100%;
 		width: 100%;
-	
+		z-index:-2;
 }
 /* Overlay */
 	@-moz-keyframes overlay { 0% { opacity: 0; } 100% { opacity: 1; } }
