@@ -14,9 +14,11 @@
 	#bg {
 		background-size: 138% auto;
 		width: 1237.5px;
+		z-index:0;
 	}
 /*Video*/
 	#bgvid{
+		z-index:-1;
 		max-height: inherit;
 		max-width: 100%
 		
