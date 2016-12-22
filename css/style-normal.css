@@ -21,3 +21,8 @@
 		background-size: 750px auto;
 		width: 2250px;
 	}
+/*Video*/
+	#bgvid{
+		max-height: inherit;
+		max-width: 100%
+}
