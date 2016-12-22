@@ -23,7 +23,9 @@
 	}
 /*Video*/
 	#bgvid{
+		display: none;
 		max-height: inherit;
 		max-width: 100%
+		
 		
 }
