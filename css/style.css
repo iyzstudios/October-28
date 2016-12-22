@@ -122,6 +122,7 @@
 	#bg {
 		background-size: 43% auto;
 		width: 6750px;
+		display: none;
 	}
 /*video*/
 	video#bgvid { 
