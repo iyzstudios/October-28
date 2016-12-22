@@ -20,10 +20,12 @@
 	#bg {
 		background-size: 750px auto;
 		width: 2250px;
-		display: none;
+		z-index:-3;
 	}
 /*Video*/
 	#bgvid{
+		z-index:-1;
 		max-height: inherit;
 		max-width: 100%
+		
 }
