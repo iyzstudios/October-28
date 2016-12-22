@@ -24,13 +24,14 @@
 	#bg {
 		background-size: 138% auto;
 		width: 900px;
+		z-index:0;
 	}
 /*video*/
 	html {
          background: url(polina.jpg) #000 no-repeat center center fixed;
     }
     #bgvid {
-        
+        z-index:-1;
     }
 }
 /* Header */
