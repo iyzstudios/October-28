@@ -121,6 +121,7 @@
 
 /* Footer */
 	li{
+		letter-spacing: 20em;
 		display: inline;
 		margin-bottom: 0%;
 }
