@@ -44,8 +44,11 @@
 		}
 /*work*/
 	#work1{
-		padding-top: 10%
+		
 		text-align: center;
+		ul{
+			margin-top: 10%
+		}
 		
 }
 
