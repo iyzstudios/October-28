@@ -31,11 +31,7 @@
 		}
 
 	a {
-		-moz-transition: border-color 0.2s ease-in-out;
-		-webkit-transition: border-color 0.2s ease-in-out;
-		-o-transition: border-color 0.2s ease-in-out;
-		-ms-transition: border-color 0.2s ease-in-out;
-		transition: border-color 0.2s ease-in-out;
+		
 		border-bottom: dotted 1px;
 		color: inherit;
 		outline: 0;
@@ -48,7 +44,7 @@
 /*work*/
 	#work1{
 		text-alignment: center;
-		margin-left: 1.5em;
+		
 }
 
 /* Icon */
