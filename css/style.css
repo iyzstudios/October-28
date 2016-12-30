@@ -119,7 +119,9 @@
 				}
 
 /* Footer */
-
+	li{
+		display: inline;
+}
 	#footer {
 	
 		bottom: 0;
