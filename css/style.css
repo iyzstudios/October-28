@@ -19,8 +19,11 @@
 	}
 
 	body {
-		background: white;
-		
+		background: rgb(253,227,167);
+		background: -webkit-linear-gradient(rgb(253,227,167),rgb(256,256,200)); 
+   		background: -o-linear-gradient(rgb(253,227,167),rgb(256,256,200));
+    		background: -moz-linear-gradient(rgb(253,227,167),rgb(256,256,200));
+    		background: linear-gradient(rgb(253,227,167), rgb(256,256,200));
 	}
 
 		body.loading * {
