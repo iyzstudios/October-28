@@ -44,7 +44,7 @@
 		}
 /*work*/
 	#work1{
-		text-alignment: center;
+		text-align: center;
 		
 }
 
@@ -86,7 +86,7 @@
 		#header h1 {
 			font-size: 2.35em;
 			font-weight: 900;
-			letter-spacing: -0.035em;
+			letter-spacing: 0.035em;
 			line-height: 1em;
 		}
 
