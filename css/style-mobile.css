@@ -13,27 +13,10 @@
 	body, input, select, textarea {
 		font-size: 11pt;
 	}
+#work1{
+	height: 31%;
+	{
 
-/* BG */
-	@-moz-keyframes bg { 0% { -moz-transform: translate3d(0,0,0); -webkit-transform: translate3d(0,0,0); -o-transform: translate3d(0,0,0); -ms-transform: translate3d(0,0,0); transform: translate3d(0,0,0); } 100% { -moz-transform: translate3d(-300px,0,0); -webkit-transform: translate3d(-300px,0,0); -o-transform: translate3d(-300px,0,0); -ms-transform: translate3d(-300px,0,0); transform: translate3d(-300px,0,0); } }
-	@-webkit-keyframes bg { 0% { -moz-transform: translate3d(0,0,0); -webkit-transform: translate3d(0,0,0); -o-transform: translate3d(0,0,0); -ms-transform: translate3d(0,0,0); transform: translate3d(0,0,0); } 100% { -moz-transform: translate3d(-300px,0,0); -webkit-transform: translate3d(-300px,0,0); -o-transform: translate3d(-300px,0,0); -ms-transform: translate3d(-300px,0,0); transform: translate3d(-300px,0,0); } }
-	@-o-keyframes bg { 0% { -moz-transform: translate3d(0,0,0); -webkit-transform: translate3d(0,0,0); -o-transform: translate3d(0,0,0); -ms-transform: translate3d(0,0,0); transform: translate3d(0,0,0); } 100% { -moz-transform: translate3d(-300px,0,0); -webkit-transform: translate3d(-300px,0,0); -o-transform: translate3d(-300px,0,0); -ms-transform: translate3d(-300px,0,0); transform: translate3d(-300px,0,0); } }
-	@-ms-keyframes bg { 0% { -moz-transform: translate3d(0,0,0); -webkit-transform: translate3d(0,0,0); -o-transform: translate3d(0,0,0); -ms-transform: translate3d(0,0,0); transform: translate3d(0,0,0); } 100% { -moz-transform: translate3d(-300px,0,0); -webkit-transform: translate3d(-300px,0,0); -o-transform: translate3d(-300px,0,0); -ms-transform: translate3d(-300px,0,0); transform: translate3d(-300px,0,0); } }
-	@keyframes bg { 0% { -moz-transform: translate3d(0,0,0); -webkit-transform: translate3d(0,0,0); -o-transform: translate3d(0,0,0); -ms-transform: translate3d(0,0,0); transform: translate3d(0,0,0); } 100% { -moz-transform: translate3d(-300px,0,0); -webkit-transform: translate3d(-300px,0,0); -o-transform: translate3d(-300px,0,0); -ms-transform: translate3d(-300px,0,0); transform: translate3d(-300px,0,0); } }
-
-	#bg {
-		background-size: 138% auto;
-		width: 900px;
-		z-index:0;
-	}
-/*video*/
-	html {
-         background: url(polina.jpg) #000 no-repeat center center fixed;
-    }
-    #bgvid {
-        z-index:-1;
-    }
-}
 /* Header */
 
 	#header h1 {
