@@ -125,7 +125,8 @@
 
 /* Footer */
 	ul{
-		letter-spacing: 20em;
+		letter-spacing: 1em;
+		margin-top:10%
 }
 	li{
 		
