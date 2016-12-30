@@ -120,8 +120,11 @@
 				}
 
 /* Footer */
-	li{
+	ul{
 		letter-spacing: 20em;
+}
+	li{
+		
 		display: inline;
 		margin-bottom: 0%;
 }
