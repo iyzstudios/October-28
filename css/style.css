@@ -47,7 +47,10 @@
 	#work1{
 		
 		text-align: center;
-		padding-bottom: 10%;	
+		padding-bottom: 10%;
+		iframe{
+			margin-bottom: 3%
+		}
 		ul{
 			
 			Letter-spacing: 1em;
