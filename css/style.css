@@ -47,7 +47,11 @@
 		
 		text-align: center;
 		padding-bottom: 10%;	
-		
+		ul{
+			
+			Letter-spacing: 1em;
+			margin-top: 10%;
+		}
 		
 }
 
@@ -83,7 +87,7 @@
 		text-align: center;
 		top: -1em;
 		vertical-align: middle;
-		width: 90%;
+		width: 100%;
 	}
 
 		#header h1 {
