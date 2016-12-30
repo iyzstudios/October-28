@@ -9,7 +9,7 @@
 /* Basic */
 
 	body, input, select, textarea {
-		color: white;
+		color: black;
 		font-family: ariel;
 		font-size: 15pt;
 		font-weight: 300 !important;
@@ -115,7 +115,7 @@
 
 					#header nav a:active:before {
 						background-color: rgba(0, 0, 0, 0);
-						color: white;
+						color: black;
 					}
 
 				#header nav a span {
@@ -131,7 +131,7 @@
 		height: 6em;
 		left: 0;
 		line-height: 8em;
-		position: absolute;
+		position: relative;
 		text-align: center;
 		width: 100%;
 	}
