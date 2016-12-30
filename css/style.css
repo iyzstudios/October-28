@@ -42,6 +42,10 @@
 		a:hover {
 			border-color: transparent;
 		}
+	#logo{
+		z-index: -1;
+		opacity: 50%;
+}
 /*work*/
 	#work1{
 		
