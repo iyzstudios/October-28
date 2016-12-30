@@ -49,6 +49,7 @@
 		text-align: center;
 		padding-bottom: 10%;
 		iframe{
+			display: grid;
 			margin-bottom: 3%
 		}
 		ul{
