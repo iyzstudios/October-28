@@ -14,11 +14,13 @@
 		font-size: 11pt;
 	}
 #work1{
-	    padding-top: 127%;
-    margin-top: -104%;
-    margin-right: 20%;
-    margin-left: 20%;
-    margin-bottom: 210%;
+	height: 90%;
+	width: auto;
+	padding-top: 127%;
+	margin-top: -104%;
+	margin-right: 20%;
+	margin-left: 20%;
+	margin-bottom: 210%;
 }
 
 /* Header */
