@@ -24,7 +24,12 @@
 }
 
 /* Header */
-
+footer{
+	ul{
+		font-size: 40%;
+		margin-top: 8%;
+	}
+}
 		
 	
 
