@@ -8,7 +8,7 @@
 
 	body {
 		text-align: -webkit-center;
-		display: inline-block;
+		
 		overflow: hidden;
 		background: black;
 		max-height: 100%;
@@ -17,6 +17,14 @@
 	}
 
 	.center{
+		text-align: center;
+		width: 180px;
+		position: absolute;
+		top: 0;
+		bottom: 0;
+		margin: auto;
+		left: 0;
+		right: 0;
 }
 
 	a {
