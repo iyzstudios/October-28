@@ -23,13 +23,7 @@
 		background: rgb(236,236,236);
 	}
 
-		body.loading * {
-			-moz-animation: none !important;
-			-webkit-animation: none !important;
-			-o-animation: none !important;
-			-ms-animation: none !important;
-			animation: none !important;
-		}
+	
 
 	a {
 		text-align: center;
