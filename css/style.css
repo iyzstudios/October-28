@@ -7,6 +7,8 @@
 	
 
 	body {
+		text-align: -webkit-center;
+		display: inline-block;
 		overflow: visible;
 		background: black;
 	}
@@ -27,14 +29,15 @@
 
 /*work*/
 	#work1{
+		display: inline-block;
+		line-height: 0;
 		height: 90%;
     		width: auto;
-    		text-align: center;
-    		padding-top: 21%;
-    		margin-top: -18%;
-    		margin-right: 30%;
-    		margin-left: 30%;
-		margin-bottom: 170%;
+    		text-align: -webkit-center;
+    		margin-top: 0;
+    		margin-right: 0;
+    		margin-left: 0;
+		margin-bottom: 0;
 }
 	
 		iframe{
@@ -109,7 +112,7 @@
 	#footer {
 		font-family: 'PT Sans', sans-serif;
 		color: white;
-		margin-top: 0%;
+		margin-top: 150%;
 		top: 10em;
 		bottom: 0;
 		cursor: default;
@@ -119,4 +122,5 @@
 		position: relative;
 		text-align: center;
 		width: 100%;
+		line-height: 1;
 	}
