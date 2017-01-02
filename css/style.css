@@ -9,12 +9,15 @@
 	body {
 		text-align: -webkit-center;
 		display: inline-block;
-		overflow: visible;
+		overflow: hidden;
 		background: black;
-		margin-top: 29%;
+		max-height: 100%;
+		position: relative
+		
 	}
 
-	
+	.center{
+}
 
 	a {
 		text-align: center;
