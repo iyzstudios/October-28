@@ -11,6 +11,7 @@
 		display: inline-block;
 		overflow: visible;
 		background: black;
+		margin-top: 29%;
 	}
 
 	
@@ -101,6 +102,7 @@
 		    text-align: center;
 		}
 	#header {
+		margin-bottom: 67px;
 		
 		text-align: center;
 		top: -1em;
