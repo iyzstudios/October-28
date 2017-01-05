@@ -194,10 +194,10 @@
 
 @-webkit-keyframes fadeout{
 	from{
-		-webkit-transition:opacity 1;
+		opacity: 1;
 	}
 	to{
-		-webkit-transition:opacity 0;
+		opacity: 0;
 		-webkit-apearance: none;
 	}
 }
