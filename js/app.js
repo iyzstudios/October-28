@@ -6,7 +6,7 @@ $(document).ready(function(){
         $('#rotate-box').css({
 
 
-        //for safari & chrome
+        
         "-webkit-animation-name":"rotatebox",
         "-webkit-animation-duration":"0.8s",
         "-webkit-animation-iteration-count":"1",
@@ -15,7 +15,8 @@ $(document).ready(function(){
         });
         $('#fadeout').css({
 		        "-webkit-animation-name":"fadeout",
-		        "-webkit-animation-duration":"0.8s",
+		        "-webkit-animation-delay":"1s",
+		        "-webkit-animation-duration":"3s",
 		        "-webkit-animation-iteration-count":"1",
 		        "-webkit-animation-fill-mode" : "forwards",
 		        });
