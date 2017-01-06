@@ -7,11 +7,11 @@
 	
 
 	body {
+		display: flex;
 		text-align: -webkit-center;
 		z-index: -3;
 		overflow: scroll;
 		background: black;
-		max-height: 100%;
 		position: relative
 		
 	}
@@ -28,35 +28,51 @@
 		left: 0;
 		right: 0;
 }
-
-	a {
+	.center2{
+		cursor:auto;
 		text-align: center;
-		border-bottom: none;
-		color: inherit;
-		outline: 0;
-		text-decoration: none;
+		width: 600px;
+		position: relative;
+		top: 0;
+		bottom: 0;
+		margin: auto;
+		left: 0;
+		right: 0;
 	}
 
-		a:hover {
-			border-color: transparent;
+	.centerhead{
+			cursor:auto;
+			text-align: center;
+			width: 180px;
+			position: relative;
+			top: 0;
+			bottom: 0;
+			margin-top: 37;
+			margin-bottom: 37;
+			left: 0;
+			right: 0;
 		}
 
-/*work*/
-	#work1{
-
-		position:fixed;
+	
 		
-    	width: auto;
-    	text-align: -webkit-center;
-    		
-		z-index: -2;
+/*work*/
+	#work{
+			top: 0;
+			bottom:0;
+			right: 0;
+			left:0;
+			margin: auto;
+			display: inline-block;
+			position: absolute;
+			text-align: center; 		
+			z-index: -2;
 }
 	
 		.intrinsic-container {
-  position: relative;
-  height: 100%;
-  overflow: hidden;
-	margin-bottom: 5%;
+  								position: relative;
+  								height: 100%;
+ 								overflow: hidden;
+								margin-bottom: 5%;
 }
  
 /* 16x9 Aspect Ratio */
@@ -97,24 +113,16 @@
 		}
 
 
-
-
-
-
-
-
-
 /* Header */
 	header{
-		    text-align: center;
+			text-align: center;
 		}
-	#header {
-		margin-bottom: 67px;
-		
-		text-align: center;
-		top: -1em;
-		vertical-align: middle;
-		width: 100%;
+	#header{
+			margin-bottom: 67px;
+			text-align: center;
+			top: -1em;
+			vertical-align: middle;
+			width: 100%;
 	}
 
 		#header h1 {
@@ -141,9 +149,11 @@
 		bottom: 0;
 		cursor: default;
 		height: 6em;
+		top: 60px;
+		right: 0;
 		left: 0;
 		line-height: inherit;
-		position: fixed;
+		position: relative;
 		text-align: center;
 		width: 100%;
 		line-height: 1;
@@ -155,7 +165,7 @@
    	
 		text-align: center;
 	
-		position: absolute;
+		position: fixed;
 		top: 0;
 		bottom: 0;
 		margin: auto;
@@ -184,10 +194,10 @@
 	
 #fadeout{
 	position: absolute;
-	
+	top:0;
 	background-color: black;
-	width:100%;
-	height: 100%;
+	width:3000;
+	height: 3000;
 	z-index: -1;
 	
 }
