@@ -20,7 +20,6 @@
 		
    		cursor:pointer;
 		text-align: center;
-		width: 180px;
 		position: absolute;
 		top: 0;
 		bottom: 0;
@@ -43,7 +42,7 @@
 	.centerhead{
 			cursor:auto;
 			text-align: center;
-			width: 180px;
+			width: 140px;
 			position: relative;
 			top: 0;
 			bottom: 0;
@@ -53,7 +52,10 @@
 			right: 0;
 		}
 
-	
+	iframe{
+	width: 65%%;
+	height: 360px;
+}
 		
 /*work*/
 	#work{
